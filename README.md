@@ -6,7 +6,34 @@ I'm Zach Barnett, AKA ZaquMan online, a student at Brigham Young University - Id
 
 ## About Me
 
+I started programming when I was around 12 or 13 years old.  I was gifted an Arduino Uno and a collection of inputs and outputs.  While the physical results of combining a microcontroller, buttons, motors, and lights was cool, I fell in love with the programming side of making the microcontroller work.
+
+Beyond my love of programming, I love reading a good book and doing activities with my family.
+
 ## Technologies and Tools
+
+### Languages
+
+- C++
+- C#
+- Python
+- HTML
+- JavaScript
+- CSS
+- Asterisk AEL
+
+### Tools
+
+- VSCode
+- Docker
+- Proxmox
+- Git
+
+### Databases
+
+- Postgres
+- MySql
+- MongoDB
 
 ## Let's Connect
 
