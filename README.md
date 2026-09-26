@@ -28,6 +28,8 @@ Beyond my love of programming, I love reading a good book and doing activities w
 - Docker
 - Proxmox
 - Git
+- React
+- Node.js
 
 ### Databases
 
@@ -38,6 +40,18 @@ Beyond my love of programming, I love reading a good book and doing activities w
 ## Let's Connect
 
 - You can find me [here](https://linkedin.com/in/ZaquMan) on LinkedIn.
+
+## Projects
+
+Here are a couple of the things I've been working on recently, as I finish my bachelors
+
+- [CSE 212 Projects](https://github.com/ZaquMan/cse212-projs)
+- [WDD 430 React Project](https://github.com/ZaquMan/wdd430-nextjs-application-tutorial)
+
+And here are some of the coding challenges I've taken on
+
+- [2022 Advent of Code](https://github.com/ZaquMan/advent_of_code_2022)
+- [Google FooBar](https://github.com/ZaquMan/google_foobar)
 
 <!--
 **ZaquMan/ZaquMan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
